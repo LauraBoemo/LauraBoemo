@@ -10,9 +10,11 @@
     🤗 Meu nome é <b>Laura Righi Boemo</b>, tenho 17 anos e estou finalizando meu Ensino Médio. </br>💡  Sou uma estudante do Curso Técnico Integrado em Informática na <a href="https://www.ufsm.br/"> <b>Universidade Federal de Santa Maria</b>, no Rio Grande do Sul, Brasil</a>. </br>👾  Bem como, <b>Software Developer iniciante</b> e, também, <b>Design Enthusiast</b>. </br>🚀  Movida pela ideia de, constantemente, <b>me desenvolver e me destacar fazendo aquilo que amo</b>.</br>
   </em>  
 </p>
+<br>
+<h1 align="center">
+<img alt="LauraB" src="https://github-readme-stats.vercel.app/api?username=LauraBoemo&show_icons=true&hide_border=true" />
+</h1>
   <br>
-
-  ![Laura Boemo's github stats](https://github-readme-stats.vercel.app/api?username=LauraBoemo&show_icons=true&hide_border=true)
 
   <br>
 
