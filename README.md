@@ -25,7 +25,7 @@
   <a href="mailto:lauraboemo@gmail.com">
     <img align="left" alt="Laura Boemo | Gmail" width="26px" src="https://github.com/LauraBoemo/LauraBoemo/blob/main/LauraGifImagem/Gmail.svg" />
   </a>
-  <br>
+  <br><br>
   
   ![Laura Boemo's github stats](https://github-readme-stats.vercel.app/api?username=LauraBoemo&show_icons=true&hide_border=true)
 
