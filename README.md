@@ -1,4 +1,4 @@
-<div style="text-align:center"> # Laura Boemo <img src="https://github.com/LauraBoemo/LauraBoemo/blob/main/LauraGifImagem/powerup.gif"  width="30px"></div>
+ # <div style="text-align:center"> Laura Boemo <img src="https://github.com/LauraBoemo/LauraBoemo/blob/main/LauraGifImagem/powerup.gif"  width="30px"> </div>
 
 <!-- Guardar p quando eu fizer meu octo ;) 
 <img align="right" alt="PC GIF" src="https://github.com/LauraBoemo/LauraBoemo/blob/main/LauraGifImagem/PC.gif" width="140" /> 
