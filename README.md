@@ -2,7 +2,7 @@
 <img align="right" alt="PC GIF" src="https://github.com/LauraBoemo/LauraBoemo/blob/main/LauraGifImagem/PC.gif" width="140" /> 
  -->
 
-# About me: A developer full stack on developing...
+## About me: A developer full stack on developing...
 ### **Hello, World!** &nbsp;<img src="https://github.com/LauraBoemo/LauraBoemo/blob/main/LauraGifImagem/Hi.gif" width="24px">👽
 
 <p>
@@ -14,7 +14,7 @@
 <img alt="LauraB" src="https://github-readme-stats.vercel.app/api?username=LauraBoemo&show_icons=true&hide_border=true" />
 </h1>
 
-# Connect with me!&nbsp; 
+## Connect with me!&nbsp; 
 <a href="https://www.linkedin.com/in/laura-boemo-956b92193/">
     <img align="left" alt="Laura Boemo | Linkedin" width="24px" src="https://github.com/LauraBoemo/LauraBoemo/blob/main/LauraGifImagem/Linkedin.svg" />
   </a> &nbsp;&nbsp;
