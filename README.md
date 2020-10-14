@@ -7,10 +7,14 @@
 
 <p>
   <em>
-    🤗 Meu nome é <b>Laura Righi Boemo</b>, tenho 17 anos e estou finalizando meu Ensino Médio. </br>💡  Sou uma estudante do Curso Técnico Integrado em Informática na <a href="https://www.ufsm.br/"> <b>Universidade Federal de Santa Maria</b>, no Rio Grande do Sul, Brasil</a>. </br>👾  Bem como, <b>Software Developer</b> iniciante e, também, <b>Design Enthusiast</b>. </br>🚀  Movida pela ideia de, constantemente, <b>me desenvolver e me destacar fazendo aquilo que amo</b>.</br>
+    🤗 Meu nome é <b>Laura Righi Boemo</b>, tenho 17 anos e estou finalizando meu Ensino Médio. </br>💡  Sou uma estudante do Curso Técnico Integrado em Informática na <a href="https://www.ufsm.br/"> <b>Universidade Federal de Santa Maria</b>, no Rio Grande do Sul, Brasil</a>. </br>👾  Bem como, <b>Software Developer iniciante</b> e, também, <b>Design Enthusiast</b>. </br>🚀  Movida pela ideia de, constantemente, <b>me desenvolver e me destacar fazendo aquilo que amo</b>.</br>
   </em>  
 </p>
+  <br>
 
+  ![Laura Boemo's github stats](https://github-readme-stats.vercel.app/api?username=LauraBoemo&show_icons=true&hide_border=true)
+
+  <br>
 # Connect with me!
 
 <a href="https://www.linkedin.com/in/laura-boemo-956b92193/">
@@ -26,7 +30,7 @@
     <img align="left" alt="Laura Boemo | Gmail" width="26px" src="https://github.com/LauraBoemo/LauraBoemo/blob/main/LauraGifImagem/Gmail.svg" />
   </a>
   <br><br>
-  
+
   ![Laura Boemo's github stats](https://github-readme-stats.vercel.app/api?username=LauraBoemo&show_icons=true&hide_border=true)
 
   <br>
