@@ -1,2 +1,2 @@
-# Laura Boemo, desenvolvedora full-stack em desenvolvimento! <img src="https://github.com/LauraBoemo/MeuPerfil/blob/main/LauraGifImagem/dino.gif" width="100px">
+# Laura Boemo, desenvolvedora full-stack em desenvolvimento! </n><img src="https://github.com/LauraBoemo/MeuPerfil/blob/main/LauraGifImagem/dino.gif" align="center" width="100px">
 <img align="right" alt="PC GIF" src="https://github.com/LauraBoemo/MeuPerfil/blob/main/LauraGifImagem/dino.gif" width="140" />
