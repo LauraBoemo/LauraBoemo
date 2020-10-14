@@ -3,7 +3,7 @@
  -->
 
 ## About me: A developer full stack on developing...
-### **Hello, World!** &nbsp;<img src="https://github.com/LauraBoemo/LauraBoemo/blob/main/LauraGifImagem/Hi.gif" width="24px">👽
+### **Hello, World!** <img src="https://github.com/LauraBoemo/LauraBoemo/blob/main/LauraGifImagem/Hi.gif" width="24px">👽
 
 <p>
   <em>
