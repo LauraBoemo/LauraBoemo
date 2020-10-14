@@ -14,9 +14,6 @@
 <h1 align="center">
 <img alt="LauraB" src="https://github-readme-stats.vercel.app/api?username=LauraBoemo&show_icons=true&hide_border=true" />
 </h1>
-  <br>
-
-  <br>
 
 ### Connect with me!&nbsp; 
 <a href="https://www.linkedin.com/in/laura-boemo-956b92193/">
