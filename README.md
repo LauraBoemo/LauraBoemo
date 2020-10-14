@@ -1,2 +1,2 @@
-# Shubhamdeep Jha&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Sou a Laura Boemo: Desenvolvedora full-stack em desenvolvimento! ;<img src="https://github.com/LauraBoemo/MeuPerfil/blob/main/LauraGifImagem/powerup.gif" width="30px">
  Testando 
