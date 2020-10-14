@@ -12,7 +12,7 @@
   </em>  
 </p>
 
-### Conecte-se à minha rede! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="20px">
+# Conecte-se à minha rede! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="20px">
 
 <a href="https://www.linkedin.com/in/laura-boemo-956b92193/">
     <img align="left" alt="Laura Boemo | Linkedin" width="24px" src="https://github.com/LauraBoemo/LauraBoemo/blob/main/LauraGifImagem/Linkedin.svg" />
