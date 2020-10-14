@@ -1,2 +1,2 @@
-# Eu sou a Laura Boemo, desenvolvedora full-stack em desenvolvimento! <img src="https://github.com/LauraBoemo/MeuPerfil/blob/main/LauraGifImagem/powerup.gif" width="30px">
-<img align="right" alt="PC GIF" src="https://github.com/LauraBoemo/MeuPerfil/blob/main/LauraGifImagem/Mario_Hello_Big.gif" width="190" />
+# Eu sou a Laura Boemo, desenvolvedora full-stack em desenvolvimento! <img src="https://github.com/LauraBoemo/MeuPerfil/blob/main/LauraGifImagem/Mario_Hello_Big.gif" width="30px">
+<img align="right" alt="PC GIF" src="https://github.com/LauraBoemo/MeuPerfil/blob/main/LauraGifImagem/powerup.gif" width="190" />
