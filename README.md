@@ -1,4 +1,4 @@
-# Laura Boemo  </n><img src="https://github.com/LauraBoemo/LauraBoemo/blob/main/LauraGifImagem/powerup.gif"  width="30px">
+# <text-align: center> Laura Boemo <img src="https://github.com/LauraBoemo/LauraBoemo/blob/main/LauraGifImagem/powerup.gif"  width="30px">
 
 <!-- Guardar p quando eu fizer meu octo ;) 
 <img align="right" alt="PC GIF" src="https://github.com/LauraBoemo/LauraBoemo/blob/main/LauraGifImagem/PC.gif" width="140" /> 
@@ -12,7 +12,7 @@
   </em>  
 </p>
 
-## Conecte-se à minha rede! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+# Conecte-se à minha rede! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 <a href="https://in.linkedin.com/in/TheDudeThatCode">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
