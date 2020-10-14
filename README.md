@@ -1,10 +1,8 @@
- # Bem-vindo(a)!<img text-align:center src="https://github.com/LauraBoemo/LauraBoemo/blob/main/LauraGifImagem/powerup.gif"  width="30px">
-
 <!-- Guardar p quando eu fizer meu octo ;) 
 <img align="right" alt="PC GIF" src="https://github.com/LauraBoemo/LauraBoemo/blob/main/LauraGifImagem/PC.gif" width="140" /> 
  -->
 
-### About me: A developer full stack on developing... **Hello, World!** &nbsp;<img src="https://github.com/LauraBoemo/LauraBoemo/blob/main/LauraGifImagem/Hi.gif" width="24px">👽
+# About me: A developer full stack on developing... **Hello, World!** &nbsp;<img src="https://github.com/LauraBoemo/LauraBoemo/blob/main/LauraGifImagem/Hi.gif" width="24px">👽
 
 <p>
   <em>
