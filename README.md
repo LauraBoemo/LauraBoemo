@@ -11,7 +11,7 @@
   </em>  
 </p>
 
-# Connect with me! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="27px">
+# Connect with me!
 
 <a href="https://www.linkedin.com/in/laura-boemo-956b92193/">
     <img align="left" alt="Laura Boemo | Linkedin" width="24px" src="https://github.com/LauraBoemo/LauraBoemo/blob/main/LauraGifImagem/Linkedin.svg" />
@@ -25,7 +25,12 @@
   <a href="mailto:lauraboemo@gmail.com">
     <img align="left" alt="Laura Boemo | Gmail" width="26px" src="https://github.com/LauraBoemo/LauraBoemo/blob/main/LauraGifImagem/Gmail.svg" />
   </a>
+  <br>
   
+  ![Laura Boemo's github stats](https://github-readme-stats.vercel.app/api?username=LauraBoemo&show_icons=true&hide_border=true)
+
+  <br>
+
   
 
 
