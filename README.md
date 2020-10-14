@@ -2,7 +2,7 @@
 <img align="right" alt="PC GIF" src="https://github.com/LauraBoemo/LauraBoemo/blob/main/LauraGifImagem/PC.gif" width="140" /> 
  -->
 
-# About me: A developer full stack on developing... **Hello, World!** &nbsp;<img src="https://github.com/LauraBoemo/LauraBoemo/blob/main/LauraGifImagem/Hi.gif" width="24px">👽
+# About me: A developer full stack on developing... ### **Hello, World!** &nbsp;<img src="https://github.com/LauraBoemo/LauraBoemo/blob/main/LauraGifImagem/Hi.gif" width="24px">👽
 
 <p>
   <em>
