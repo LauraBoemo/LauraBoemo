@@ -16,8 +16,7 @@
 
   <br>
 
-# Connect with me! 
-<a href="https://www.linkedin.com/in/laura-boemo-956b92193/">
+### Connect with me!&nbsp; <a href="https://www.linkedin.com/in/laura-boemo-956b92193/">
     <img align="left" alt="Laura Boemo | Linkedin" width="24px" src="https://github.com/LauraBoemo/LauraBoemo/blob/main/LauraGifImagem/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://twitter.com/LauraBoemo">
