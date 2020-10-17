@@ -31,7 +31,7 @@
   <a href="mailto:lauraboemo@gmail.com">
     <img align="left" alt="Laura Boemo | Gmail" width="26px" src="https://github.com/LauraBoemo/LauraBoemo/blob/main/LauraGifImagem/Gmail.svg" />
   </a>
-  <a href="https://medium.com/@shubhamdeepjha">
+  <a href="https://medium.com/@lauraboemo">
     <img align="left" alt="Laura Boemo | Medium" width="26px"src="https://cdn.svgporn.com/logos/medium.svg" />
   </a>
 
