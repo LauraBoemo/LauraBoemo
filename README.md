@@ -11,7 +11,7 @@
   </em>  
 </p>
 
-### My Knowedges <img src="https://github.com/LauraBoemo/LauraBoemo/blob/main/LauraGifImagem/Rocket.gif" width="24px">
+### My Knowedges <img src="https://github.com/LauraBoemo/LauraBoemo/blob/main/LauraGifImagem/coin.gif" width="24px">
 <p>
   <em>
      - <b>Languages: </b>HTML5, CSS3, JavaScript, C++, C#;<br>
