@@ -6,7 +6,7 @@
 ### **Hello, World!** <img src="https://github.com/LauraBoemo/LauraBoemo/blob/main/LauraGifImagem/Hi.gif" width="24px">👽
 <p>
   <em>
-    🎀 Meu nome é <b>Laura Righi Boemo</b>, tenho 18 anos e sou uma Desenvolvedora Jr. </br>💡  Fui uma estudante do Curso Técnico Integrado em Informática na <a href="https://www.ufsm.br/"> <b>Universidade Federal de Santa Maria</b>, no Rio Grande do Sul, Brasil</a>.</br>📚  E, atualmente, sou estudante de Sistemas de Informação pela <a href="https://www.ufn.edu.br/"> <b>Universidade Franciscana</b></a>. </br>👾  De todo modo, apenas uma <b>Software Developer iniciante</b> e, também, <b>Design Enthusiast</b>. </br>🚀  Movida pela ideia de, constantemente, <b>me desenvolver e me destacar fazendo aquilo que amo</b>.</br>
+    🎀 My name is <b>Laura Righi Boemo</b>, I'm 18 years old and Junior Developer. </br>💡  I was a student of the Integrated Technical Course in Informatics at <a href="https://www.ufsm.br/"> <b>Universidade Federal de Santa Maria</b>, Rio Grande do Sul, Brasil</a>.</br>📚  And, currently, I am an Information Systems student at <a href="https://www.ufn.edu.br/"> <b>Universidade Franciscana</b></a>. </br>👾  Anyway, only one <b>Software Developer iniciante</b> and, already, <b>Design Enthusiast</b>. </br>🚀  Moved by the idea of constantly <b>stand out by doing what I love</b>.</br>
   </em>  
 </p>
 
