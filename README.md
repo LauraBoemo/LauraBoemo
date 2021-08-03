@@ -16,7 +16,7 @@
 - <b>DataBase: </b>MySQL, MongoDB;<br>
 - <b>Versioning: </b>Git, SVN;<br>
 - <b>IDE: </b>Visual Studio Code, Visual Studio;<br>
-- <b>Another Tools: </b>Excel, Adobe XD, Adobe Photoshop.<br>
+- <b>Another Tools: </b>Excel, Adobe XD, Adobe Photoshop and Figma.<br>
 
 ### Connect with me!&nbsp; 
 <a href="https://www.linkedin.com/in/laura-boemo-956b92193/">
