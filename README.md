@@ -10,14 +10,6 @@
   </em>  
 </p>
 
-### My Knowedges... <img src="https://github.com/LauraBoemo/LauraBoemo/blob/main/LauraGifImagem/powerup.gif" width="17px">
-- <b>Languages: </b>HTML5, CSS3, JavaScript, Java, C++, C#;<br>
-- <b>Frameworks: </b>NodeJS, ReactJS, React Native;<br>
-- <b>DataBase: </b>MySQL, MongoDB;<br>
-- <b>Versioning: </b>Git, SVN;<br>
-- <b>IDE: </b>Visual Studio Code, Visual Studio;<br>
-- <b>Another Tools: </b>Excel, Adobe XD, Adobe Photoshop and Figma.<br>
-
 ### Connect with me!&nbsp; 
 <a href="https://www.linkedin.com/in/laura-boemo-956b92193/">
     <img align="left" alt="Laura Boemo | Linkedin" width="24px" src="https://github.com/LauraBoemo/LauraBoemo/blob/main/LauraGifImagem/Linkedin.svg" />
