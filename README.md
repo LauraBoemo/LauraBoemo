@@ -1,11 +1,10 @@
-### Hi! I'm Laura Boemo! 
-<p>
-  <em>
-    🎀 My name is <b>Laura Righi Boemo</b>, I'm 18 years old and Junior Developer. </br>💡  I was a student of the Integrated Technical Course in Informatics at <a href="https://www.ufsm.br/"> <b>Universidade Federal de Santa Maria</b>, Rio Grande do Sul, Brasil</a>.</br>📚  And, currently, I am an Information Systems student at <a href="https://www.ufn.edu.br/"> <b>Universidade Franciscana</b></a>. </br>👾  Anyway, only one <b>Software Developer</b> and, already, <b>Design Enthusiast</b>. </br>🚀  Moved by the idea of constantly <b>stand out by doing what I love</b>.</br>
-  </em>  
-</p>
+## Hi! I'm Laura Boemo! 
+   - 👾 I'm a **Front-End Developer**.
+   - 🎨 Currently working at <a href="https://www.metaltoad.com/"> @MetalToad as a Contractor for <a href="https://khoros.com/"> @Khoros.  
+   - 📚 <a href="aws.amazon.com"> @AWS Certified; Computer Technician; and Information Systems Degree student.
+   - 🚀 Only <b>Software Developer</b> and, already, <b>Design Enthusiast</b>. Moved by the idea of constantly <b>stand out by doing what I love</b>.</br>
 
-### Connect with me! 
+## Connect with me! 
 <a href="https://www.linkedin.com/in/LauraBoemo/">
   <img align="left" alt="Laura Boemo | Linkedin" width="24px" src="https://github.com/LauraBoemo/LauraBoemo/blob/main/LauraGifImagem/Linkedin.svg" />
 </a> &nbsp;&nbsp;
@@ -15,7 +14,7 @@
 <a href="mailto:lauraboemo@gmail.com">
   <img align="left" alt="Laura Boemo | Gmail" width="26px" src="https://github.com/LauraBoemo/LauraBoemo/blob/main/LauraGifImagem/Gmail.svg" />
 </a>
-
+  
 <h1 align="center">
-<img alt="LauraB" src="https://github-readme-stats.vercel.app/api?username=LauraBoemo&show_icons=true&hide_border=true" />
+  <br/>[![Laura's github stats](https://github-readme-stats.vercel.app/api?username=LauraBoemo&count_private=true&count_private=true&theme=tokyonight)](https://github.com/fernandobelotto/github-readme-stats)
 </h1>
