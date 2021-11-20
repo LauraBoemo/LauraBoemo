@@ -1,6 +1,6 @@
 ## Hi! I'm Laura Boemo! <img src="https://github.com/LauraBoemo/LauraBoemo/blob/main/LauraGifImagem/Hi.gif" width="24px">👽
    - 👾 I'm a **Front-End Developer**.
-   - 🎨 Currently working at <a href="https://www.metaltoad.com/"> <b>@MetalToad</b> as a Contractor for <a href="https://khoros.com/"> <b>@Khoros</b>.  
+   - 🎨 Currently working at <a href="https://www.metaltoad.com/"> @MetalToad</a> as a Contractor for <a href="https://khoros.com/"> <b>@Khoros</b>.  
    - 📚 <a href="aws.amazon.com"> <b>@AWS</b> Certified; Computer Technician; and Information Systems Degree student.
    - 🚀 Only <b>Software Developer</b> and, already, <b>Design Enthusiast</b>. Moved by the idea of constantly <b>stand out by doing what I love</b>.
 
