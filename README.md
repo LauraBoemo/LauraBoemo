@@ -1,8 +1,8 @@
 ## Hi! I'm Laura Boemo! <img src="https://github.com/LauraBoemo/LauraBoemo/blob/main/LauraGifImagem/Hi.gif" width="24px">👽
    - 👾 I'm a **Front-End Developer**.
-   - 🎨 Currently working at <a href="https://www.metaltoad.com/"> @MetalToad as a Contractor for <a href="https://khoros.com/"> @Khoros.  
-   - 📚 <a href="aws.amazon.com"> @AWS Certified; Computer Technician; and Information Systems Degree student.
-   - 🚀 Only <b>Software Developer</b> and, already, <b>Design Enthusiast</b>. Moved by the idea of constantly <b>stand out by doing what I love</b>.</br>
+   - 🎨 Currently working at <a href="https://www.metaltoad.com/"> <b>@MetalToad</b> as a Contractor for <a href="https://khoros.com/"> <b>@Khoros</b>.  
+   - 📚 <a href="aws.amazon.com"> <b>@AWS</b> Certified; Computer Technician; and Information Systems Degree student.
+   - 🚀 Only <b>Software Developer</b> and, already, <b>Design Enthusiast</b>. Moved by the idea of constantly <b>stand out by doing what I love</b>.
 
 ## Connect with me! 
 <a href="https://www.linkedin.com/in/LauraBoemo/">
@@ -16,12 +16,5 @@
 </a>
   
 <h1 align="center">
-   <img alt="Laura's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LauraBoemo&show_icons=true&count_private=true&theme=tokyonight" />
+   <img alt="Laura's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LauraBoemo&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
 </h1>
-
-
-<!-- Pra quando eu tiver um Stats decente :D>
-<h1 align="center">
-<img alt="LauraB" src="https://github-readme-stats.vercel.app/api?username=LauraBoemo&show_icons=true&hide_border=true" />
-</h1>
-  
