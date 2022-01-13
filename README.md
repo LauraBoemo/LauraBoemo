@@ -5,7 +5,7 @@
    - 🚀 Only <b>Software Developer</b> and, already, <b>Design Enthusiast</b>. Moved by the idea of constantly <b>stand out by doing what I love</b>.
 
 ## Connect with me! 
-<a href="https://www.linkedin.com/in/LauraBoemo/">
+<a href="https://www.linkedin.com/in/LauraBoemo/">testr
   <img align="left" alt="Laura Boemo | Linkedin" width="24px" src="https://github.com/LauraBoemo/LauraBoemo/blob/main/LauraGifImagem/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://twitter.com/LauraButForCode">
