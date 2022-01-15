@@ -12,7 +12,7 @@
   <img align="left" alt="Laura Boemo | Twitter" width="26px" src="https://github.com/LauraBoemo/LauraBoemo/blob/main/LauraGifImagem/Twitter.svg" />
 </a> &nbsp;&nbsp;
 <a href="mailto:lauraboemo@gmail.com">
-  <img align="left" alt="Laura Boemo | Gmail" width="26px" src="https://github.com/LauraBoemo/LauraBoemo/blob/main/LauraGifImagem/Gmail.svg" />
+  <img align="left" alt="Laura Boemo | Gmail" width="26px"  src="https://github.com/LauraBoemo/LauraBoemo/blob/main/LauraGifImagem/Gmail.svg" />
 </a>
   
 <h1 align="center">
