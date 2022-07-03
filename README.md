@@ -2,7 +2,7 @@
    - 👾 I'm a **Front-End Developer**.
    - 🎨 Currently working at <a href="https://www.metaltoad.com/"> @MetalToad</a>.
    - 📚 <a href="aws.amazon.com"> @AWS</a> Certified || Computer Technician || Information Systems Degree student.
-   - 🚀 Only <b>Software Developer</b> and <b>Design Enthusiast</b>. Moved by the idea of constantly <b>stand out by doing what I love</b>.
+   - 🚀 <b>Software Developer</b> and a <b>Design Enthusiast</b>. Moved by the idea of constantly <b>stand out by doing what I love</b>.
 
 ## Connect with me! 
 <a href="https://www.linkedin.com/in/LauraBoemo/">
