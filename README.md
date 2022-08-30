@@ -1,6 +1,5 @@
 ## Hi! I'm Laura Boemo!
    - 👾 I'm a **Front-End Developer**.
-   - 🎨 Currently working at <a href="https://www.metaltoad.com/"> @MetalToad</a>.
    - 📚 <a href="aws.amazon.com"> @AWS</a> Certified || Computer Technician || Information Systems Degree student.
    - 🚀 <b>Software Developer</b> and a <b>Design Enthusiast</b>. Moved by the idea of constantly <b>stand out by doing what I love</b>.
 
